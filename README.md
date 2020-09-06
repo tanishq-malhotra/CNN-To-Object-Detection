@@ -10,3 +10,7 @@
     + Apply Sliding Window on each of Image Pyramid's
     + Classify the windows
     + Apply Non-Maxima Suppression to remove the unwanted classification with lesser confidance
+
+
+### Test Command:
+python detect.py --image images/lawn_mower.jpg --size "(200, 200)" --min-conf 0.95
