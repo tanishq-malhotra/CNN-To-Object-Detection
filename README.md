@@ -1,7 +1,7 @@
 # Convolutinal Neural Net to Object Detector or Object Locator
 
 
-## Used ResetNet50 as the Cnn for Image classification
+## Used ResetNet50 CNN for Image classification
 ## We can also use a custom Image Classifier on it
 
 
