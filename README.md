@@ -11,6 +11,13 @@
     + Classify the windows
     + Apply Non-Maxima Suppression to remove the unwanted classification with lesser confidance
 
+## Requirements
+    - Tensorflow 2.0+
+    - numpy
+    - opencv
+    - imutils
 
 ### Test Command:
 python detect.py --image images/lawn_mower.jpg --size "(200, 200)" --min-conf 0.95
+
+
